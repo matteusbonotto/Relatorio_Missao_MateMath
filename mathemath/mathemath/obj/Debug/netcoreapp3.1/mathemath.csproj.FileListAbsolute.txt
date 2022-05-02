@@ -1,0 +1,13 @@
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\bin\Debug\netcoreapp3.1\mathemath.exe
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\bin\Debug\netcoreapp3.1\mathemath.deps.json
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\bin\Debug\netcoreapp3.1\mathemath.runtimeconfig.json
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\bin\Debug\netcoreapp3.1\mathemath.runtimeconfig.dev.json
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\bin\Debug\netcoreapp3.1\mathemath.dll
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\bin\Debug\netcoreapp3.1\mathemath.pdb
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\obj\Debug\netcoreapp3.1\mathemath.csprojAssemblyReference.cache
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\obj\Debug\netcoreapp3.1\mathemath.AssemblyInfoInputs.cache
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\obj\Debug\netcoreapp3.1\mathemath.AssemblyInfo.cs
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\obj\Debug\netcoreapp3.1\mathemath.csproj.CoreCompileInputs.cache
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\obj\Debug\netcoreapp3.1\mathemath.dll
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\obj\Debug\netcoreapp3.1\mathemath.pdb
+D:\Repositório\PR\SidiGard\classe\mathemath\mathemath\obj\Debug\netcoreapp3.1\mathemath.genruntimeconfig.cache
